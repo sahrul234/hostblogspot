@@ -1,0 +1,38 @@
+{
+  "name": "Travegor",
+  "short_name": "Travegor",
+  "start_url": "https://www.travegor.my.id/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-lR_s1iibTNA/X7R4zl0JKkI/AAAAAAAAuhA/UiBGnPeF434df21BgzFieKbVokDRsjz1QCLcBGAsYHQ/s16000/logotravegor_48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-ftWvrt3HpGU/X7R40J_9fHI/AAAAAAAAuhE/tHCEsGa8BW4_Eaenkz-xV8ZbVurEcW6bACLcBGAsYHQ/s16000/logotravegor_72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-a3zstYhVi5w/X7R40cHQ0dI/AAAAAAAAuhM/vjqqepJHq_8trydavDQ833kpJm9U8Uq7ACLcBGAsYHQ/s16000/logotravegor_96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-yJiHjJjimB0/X7R4y6eTbAI/AAAAAAAAug4/US3Uu6RIuQc8ra0-vB3Vts7dtevKaO2agCLcBGAsYHQ/s16000/logotravegor_144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-BsmeWOHQui4/X7R4yx0U7WI/AAAAAAAAug8/ooa4D_SiQf4i_BGzxh-xfqa3aUe9XamhgCLcBGAsYHQ/s16000/logotravegor_168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-b7KytMNLSvc/X7R4y_Vv_VI/AAAAAAAAug0/-9amqSGKMHcKX5HaYorCmq0uQ8oIivZzwCLcBGAsYHQ/s16000/logotravegor_192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-DLCG3OkK7tw/X7R4zx9TPwI/AAAAAAAAuhI/U3x6YKqDeOM1inV5_qK0Ew4eamWX54RXQCLcBGAsYHQ/s16000/logotravegor_512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
