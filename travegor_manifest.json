@@ -7,31 +7,31 @@
   "theme_color": "#C51162",
   "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
   "icons": [{
-    "src": "https://1.bp.blogspot.com/-lR_s1iibTNA/X7R4zl0JKkI/AAAAAAAAuhA/UiBGnPeF434df21BgzFieKbVokDRsjz1QCLcBGAsYHQ/s16000/logotravegor_48.png",
+    "src": "https://1.bp.blogspot.com/-tDRDxp3OPNI/X74Pc2lc3TI/AAAAAAAAuy0/VOPBqkgt9OoFiTDPTDbr5pmeQ_hEkKTWgCLcBGAsYHQ/s200/Logo%2BTravegor_48.png",
     "sizes": "48x48",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-ftWvrt3HpGU/X7R40J_9fHI/AAAAAAAAuhE/tHCEsGa8BW4_Eaenkz-xV8ZbVurEcW6bACLcBGAsYHQ/s16000/logotravegor_72.png",
+    "src": "https://1.bp.blogspot.com/-cRri5MGCMGk/X74Pc1E_jRI/AAAAAAAAuy4/zICicOWIM7QO2N1dUuGj_7V-UWOXaqtDQCLcBGAsYHQ/s300/Logo%2BTravegor_72.png",
     "sizes": "72x72",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-a3zstYhVi5w/X7R40cHQ0dI/AAAAAAAAuhM/vjqqepJHq_8trydavDQ833kpJm9U8Uq7ACLcBGAsYHQ/s16000/logotravegor_96.png",
+    "src": "https://1.bp.blogspot.com/-i7b9a8Fqr0c/X74PdsfFBNI/AAAAAAAAuzA/VzNj3b_pT3ss8Jq6nLYjEvngcKPa6MXXgCLcBGAsYHQ/s400/Logo%2BTravegor_96.png",
     "sizes": "96x96",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-yJiHjJjimB0/X7R4y6eTbAI/AAAAAAAAug4/US3Uu6RIuQc8ra0-vB3Vts7dtevKaO2agCLcBGAsYHQ/s16000/logotravegor_144.png",
+    "src": "https://1.bp.blogspot.com/-RMWouFVSbDU/X74PcLvUTLI/AAAAAAAAuyo/wzLA5ZTgjIAD0WbRtXZg4HfgLs4ZAGvtgCLcBGAsYHQ/s600/Logo%2BTravegor_144.png",
     "sizes": "144x144",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-BsmeWOHQui4/X7R4yx0U7WI/AAAAAAAAug8/ooa4D_SiQf4i_BGzxh-xfqa3aUe9XamhgCLcBGAsYHQ/s16000/logotravegor_168.png",
+    "src": "https://1.bp.blogspot.com/-6dRioKWJxZM/X74PcO3-nFI/AAAAAAAAuyw/xIpFJ7e_M7kKdCvLTysVHfSjrEi2j5jRACLcBGAsYHQ/s700/Logo%2BTravegor_168.png",
     "sizes": "168x168",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-b7KytMNLSvc/X7R4y_Vv_VI/AAAAAAAAug0/-9amqSGKMHcKX5HaYorCmq0uQ8oIivZzwCLcBGAsYHQ/s16000/logotravegor_192.png",
+    "src": "https://1.bp.blogspot.com/-hGR4rn9ER_Q/X74PcN4H7gI/AAAAAAAAuys/Kp4-w7NJKxAdQseaiOQOvae5LHG5KHUGgCLcBGAsYHQ/s800/Logo%2BTravegor_192.png",
     "sizes": "192x192",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-DLCG3OkK7tw/X7R4zx9TPwI/AAAAAAAAuhI/U3x6YKqDeOM1inV5_qK0Ew4eamWX54RXQCLcBGAsYHQ/s16000/logotravegor_512.png",
+    "src": "https://1.bp.blogspot.com/-uWFDia5pgp4/X74PcyJw7dI/AAAAAAAAuy8/Bif8MjDvsbM4tww3SGZOZQwtvzwUJmhOgCLcBGAsYHQ/s2048/Logo%2BTravegor_512.png",
     "sizes": "512x512",
     "type": "image/png"
   }]
